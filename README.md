@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nathan 👋
 
-<!--
-**NathanGhenassia/NathanGhenassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Scientist | Machine Learning Engineer  
 
-Here are some ideas to get you started:
+I’m a Data Science graduate with hands-on experience in building machine learning models, data pipelines, and analytical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across the full data lifecycle:
+- Data collection & preprocessing (ETL)
+- Machine Learning modeling
+- Evaluation & optimization
+- Data visualization & insights
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** Python, R  
+- **ML:** Scikit-learn, TensorFlow, PyTorch  
+- **Data:** Pandas, NumPy, SQL  
+- **Visualization:** Power BI, Matplotlib, Seaborn, Streamlit  
+- **Tools:** Git, FastAPI, Dask, Joblib, Linux
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/nathan-ghenassia-data/
