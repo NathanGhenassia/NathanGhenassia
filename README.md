@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-🎯 Data Scientist | Machine Learning Engineer  
+🎯 Clinical Statistical Programmer | Data Scientist
 
 I’m a Data Science graduate with hands-on experience in building machine learning models, data pipelines, and analytical solutions.
 
@@ -14,7 +14,7 @@ I work across the full data lifecycle:
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, R  
+- **Languages:** Python, R, SAS  
 - **ML:** Scikit-learn, TensorFlow, PyTorch  
 - **Data:** Pandas, NumPy, SQL  
 - **Visualization:** Power BI, Matplotlib, Seaborn, Streamlit  
